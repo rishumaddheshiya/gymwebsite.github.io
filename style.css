@@ -1,0 +1,241 @@
+.left{position: absolute;
+    display:inline-block;
+
+
+
+ 
+}
+.mid{ display:block;
+    position: relative;
+    font-size: 100rem;
+    margin-left: auto;
+
+    margin-right:auto;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    top:0rem;
+   
+}
+.right{ display:block;
+    position: absolute;
+    
+    right: 2vw;
+    top: 6vh;
+    
+    
+    margin: 4rem;
+    
+    padding: 0rem 50rem;
+}
+.navbar{
+list-style: none;
+
+
+}
+.navbar li{
+    display: inline-block;
+    align-items: center;
+   padding-top: 0rem;
+    padding-left: 70rem;
+    margin-top: 0rem;
+    margin: 50rem;
+    color: rgb(16, 223, 175);
+    font-style: unset;
+}
+.icon{
+    color: red;
+    font-size: 50rem;
+}
+.text{
+    display: inline;
+}
+.txt{ left: 10rem;
+    font-size: 70rem;
+    left: 1rem;
+    font-weight: bold;
+    
+}
+.navbar li a:hover{
+    font-weight: bold;
+    color: red;
+    text-decoration: underline;
+}
+
+.quote{
+    font-size: 120rem;
+    position: absolute;
+    top:40vh;
+    display: inline;
+    left: 7vh;
+    width: 50%;
+display: block;
+    font-weight: bold;
+    font-style: oblique;
+    color:rgb(250, 242, 14)
+}
+.sign{
+    cursor: pointer;
+    font-size: 70rem;
+    font-weight: bold;
+    display: inline;
+
+    
+    padding: 50rem;
+    top: 40vh;
+color: rgb(248, 243, 247);
+    left: 5vw;
+    position: relative;
+    border: 2rem solid black;
+    border-radius: 100rem;
+    background-color: rgb(248, 29, 9);
+
+
+}
+s{border-radius: 10rem;
+    text-decoration: none;
+}
+
+
+
+s:hover{
+    background-color: rgb(58, 237, 118);
+   }
+a{
+    color: rgb(12, 225, 158);
+    text-decoration: none;
+}
+a:hover{
+ color:red
+}
+.eq{
+    font-size: 80rem;
+    font-weight: bold;
+    display: inline;
+    margin: 50rem 5rem;
+    padding: 10rem 0rem;
+    bottom: 0%;
+    width: 15%;
+    left: 2%;
+    color: rgb(242, 6, 69);
+    border-radius: 100rem;
+    display: flex;
+    height: 25%;
+    justify-content: center;
+    position: absolute;
+    border: 2rem solid black;
+    background-color: rgb(205, 252, 250) ;
+     
+    
+
+}
+.trainer{
+    font-size: 80rem;
+    font-weight: bold;
+    display: inline;
+    display: flex;
+    height: 25%;
+    justify-content: center;
+    margin: 50rem;
+   padding-top: 20rem;
+   border-radius: 100rem;
+    bottom: 0%;
+    left: 20%;
+    width: 15%;
+    position: absolute;
+    border: 2rem solid black;
+    color: red;
+    background-color: rgb(205, 252, 250) ;
+    
+
+}
+    html{
+        font-size: 1px;
+    }
+    .eqp{
+    display: flex;
+    display:block;
+    position: absolute;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(13, 226, 162);
+    align-self: center;
+    justify-content: center;
+   
+
+    
+    
+}
+
+.diet{
+    border-radius: 100rem;
+    font-size: 80rem;
+    font-weight: bold;
+    display: inline;
+    display: flex;
+    height: 25%;
+    justify-content: center;
+    margin: 50rem;
+   padding-top: 20rem;
+    
+    
+    bottom: 0%;
+    left: 38%;
+    width: 15%;
+    position: absolute;
+    border: 2rem solid black;
+    color: red;
+    background-color: rgb(205, 252, 250) ;
+
+}
+.trp{
+    display: flex;
+    display:block;
+    position: absolute;
+    align-items: center;
+    justify-content: space-between;
+  
+    align-self: center;
+    justify-content: center;
+   
+
+}
+.dtp{
+    display: flex;
+    display:block;
+    position: absolute;
+    align-items: center;
+    justify-content: space-between;
+  
+    align-self: center;
+    justify-content: center;
+   
+    background-color: rgb(13, 226, 162);
+
+} F:hover{
+    
+    transition-property: all;
+    transition-duration: 1ms;
+    background-color: aqua;
+    transition-delay: 1ms;
+    transition-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1);
+      
+}
+    .contact{
+cursor: pointer;
+        font-size: 70rem;
+        font-weight: bold;
+        display: inline;
+    background-color: white;
+        margin: 50rem;
+        padding: 50rem;
+        top: 40vh;
+    color: black;
+        left: 5vw;
+        position: relative;
+        border: 2rem solid black;
+        border-radius: 100rem;
+    }
+    c:hover{
+        background-color: aqua;
+    }
